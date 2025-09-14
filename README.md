@@ -9,15 +9,15 @@ This Power BI project analyzes insurance claims, net profits, and premium distri
 -Identify product lines contributing the most to revenue.
 
 ## Dataset
-![Dataset](Account_Table)
-![Dataset](Policy_Table)
-![Dataset](Insurer_Table)
-![Dataset](Product_Table)
-![Dataset](Premium_Commision_Table)
+![Dataset](Account_Table.csv)
+![Dataset](Policy_Table.csv)
+![Dataset](Insurer_Table.csv)
+![Dataset](Product_Table.csv)
+![Dataset](Premium_Commision_Table.csv)
 
 ## 📂 Dashboard Pages
-![Dashboard Screenshot](Report-page-1)
-![Dashboard Screenshot](Report-page-2)
+![Dashboard Screenshot](Report-page-1.png)
+![Dashboard Screenshot](Report-page-2.png)
 
 ## 1️⃣ Dashboard Overview
 - KPIs
