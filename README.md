@@ -13,7 +13,7 @@ This Power BI project analyzes insurance claims, net profits, and premium distri
 ![Dataset](Policy_Table.csv)
 ![Dataset](Insurer_Table.csv)
 ![Dataset](Product_Table.csv)
-![Dataset](Premium_Commision_Table.csv)
+![Dataset](Premium_Commission_Table.csv)
 
 ## 📂 Dashboard Pages
 ![Dashboard Screenshot](Report-Page-1.png)
